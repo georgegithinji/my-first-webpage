@@ -11,5 +11,12 @@ p {
   font-family: sans-serif;
 }
 ul {
+  list-style-position: outside;
+  line-height: 40px;
+  text-align: left;
+}
+ol {
+  list-style-position: inside;
+  text-align: center;
   line-height: 40px;
 }
